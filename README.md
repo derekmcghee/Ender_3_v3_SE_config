@@ -39,9 +39,13 @@ https://github.com/garethky/klipper-voron2.4-config/blob/mainline/printer_data/c
 Each repo is fucking huge and VERY GOOD stuff that helped me stumble thru how Klippers workflow functions.
 Check em out!
 
-Ive also included a directory containing several STLs of things I have either 
+Ive also included a directory containing several STLs of things I have either
+
 -Printed and Currently use on my BedSlaaanginBadBiatch
--Created myself to mod on Bringing myyyyyyy YbedBackYbedBackYbedback.... CREAAAAAAAAAAAAAAALITYYYYYYYYYYYYY SLINGIIIIIIIIIIIN YOUR Y BED BACK AGAIN!
+
+-Created myself to mod on Bringing myyyyyyy YbedBackYbedBackYbedback.... 
+ CREAAAAAAAAAAAAAAALITYYYYYYYYYYYYY SLINGIIIIIIIIIIIN YOUR Y BED BACK AGAIN!
+
 -remixed that motherfucker like R-Kelly and Ignition - Sorry thingaverse, Urine not included
 
 
