@@ -17,12 +17,15 @@ Thanks 0xD34D! And hope you saw my DM's on reddit. Sorry i was really stoned at 
 and I KNOW I KNOW I SPAMMED 42 LINKS IM SORRY, BUt... it looked ike helpful shit. Hope it was =D
 
 Link to his Klipper fork with LoadCell PRTouch Z Probe. His Configs are in a Seperate Repo!
+
 https://github.com/0xD34D/klipper_ender3_v3_se
 
 His printer.cfg, PRtouch.cfg, Filament Sensor.cfg and start/end Gcodes
+
 https://github.com/0xD34D/ender3-v3-se-klipper-config
 
 KAMP is the best shit ive ever seeen. Dont question, just use it! 
+
 https://github.com/kyleisah/Klipper-Adaptive-Meshing-Purging
 
 I have 3-4 double sided buildsheets i rotate thru with various smooth/texture coatings. Well, This guy is a pretty bad ass Klipper guru i found on the interwebs, and he has created these Buildsheet macros that auto save any babystepping you happen to do during printing. If you own/use/know how Prusa's work with this, This is a implementation mirroring them. Thanks for the baller ass work Garethky, and I dont mean just on this, I see you king, carryin us scrubs on ya back! Thanks!
