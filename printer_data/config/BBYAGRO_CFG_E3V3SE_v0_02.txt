@@ -1,3 +1,8 @@
+This is just a Text File version of my printer.cfg for easier editing and file sharing.
+
+
+
+
 # !Ender-3 V3 SE
 # printer_size: 220x220x250
 # mcu: chip: GD32F303RET6
